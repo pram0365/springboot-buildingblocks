@@ -9,7 +9,7 @@ import javax.persistence.Table;
 //Entity - represents a table stored in a database.
 //@Entity(name="user")
 @Entity
-@Table(name="userdetails")
+@Table(name="userD")
 public class User {
 	
 	@Id
